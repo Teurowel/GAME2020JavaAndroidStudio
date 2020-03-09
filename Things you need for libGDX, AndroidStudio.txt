@@ -1,0 +1,30 @@
+Java
+JDK
+
+//////////////////////////////////////////////
+https://developer.android.com/studio
+Android Studio
+commandlinetool (Paste tools folder in your sdk path(C:\Users\teuro\AppData\Local\Android\Sdk))
+//////////////////////////////////////////////
+
+//////////////////////////////////////////////
+https://libgdx.badlogicgames.com/download.html
+libGDX
+//////////////////////////////////////////////
+
+
+install Java
+install jdk
+install andriod studio
+
+open cmd
+java -version(check java is installed)
+cd Desktop(go to desktop)
+javaw -jar gdx-setup.jar(launch gdx-setup)
+set your sdk path(C:\Users\teuro\AppData\Local\Android\Sdk)
+check only Android(Uncehck everything)
+Generate will make project
+open android Studio, drag your project
+your code in in core -> java -> MyGdxGame
+
+Upper right, you see AVD Manager, create virtual devie, pixel 2, pie(API level 28)
