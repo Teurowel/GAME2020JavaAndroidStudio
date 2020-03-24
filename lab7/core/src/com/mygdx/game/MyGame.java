@@ -23,6 +23,6 @@ public class MyGame extends GameBeta
         thridScreen.setMyGame(this);
 
 
-        setActiveScreen(thridScreen);
+        setActiveScreen(mainScreen);
     }
 }
